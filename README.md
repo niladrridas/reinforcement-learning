@@ -1,13 +1,14 @@
-![Gym](https://img.shields.io/badge/Gym-v0.21.0-blue.svg)
-![NumPy](https://img.shields.io/badge/NumPy-v1.23.2-orange.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.9.1-red.svg)
-![Keras](https://img.shields.io/badge/Keras-v2.13.0-green.svg)
-![AI](https://a11ybadges.com/badge?logo=ai&label=version&message=v1.0.0) 
+#### **Robotics AI Project**
+##### "Empowering robots to navigate the world, one step at a time."
 
-**Robotics AI Project**
-"Empowering robots to navigate the world, one step at a time."
+**Libraries Used:**
+* ![Gym](https://img.shields.io/badge/Gym-0047AB?style=for-the-badge&logo=gym)
+* ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+* ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+* ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+* ![AI](https://img.shields.io/badge/AI-009688?style=for-the-badge&logo=ai)
 
-# Reinforcement Learning Project
+# Reinforcement Learning Library
 =====================================================
 
 A project demonstrating the implementation of reinforcement learning algorithms using Python and the OpenAI Gym library.
@@ -217,10 +218,10 @@ Follow these steps to set up the project:
 
 ```bash
 # Clone the repository
-git clone https://github.com/niladrridas/reinforcement-learning.git
+git clone https://github.com/niladrridas/rl-library.git
 
 # Navigate to the project directory
-cd reinforcement-learning
+cd rl-library
 
 # Create a virtual environment
 python3 -m venv venv
@@ -272,9 +273,9 @@ All pull requests will be reviewed by the project maintainers. We will check for
 If you find a bug or have a feature request, please open an issue on the project's issue tracker.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
 
 ## Contact
-Niladri Das - Gmail
+Niladri Das - [Gmail](mailto:ndas1262000@gmail.com)
 
-Project Link: https://github.com/niladrridas/reinforcement-learning
+Project Link: https://github.com/niladrridas/rl-library
